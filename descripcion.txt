@@ -1,0 +1,8 @@
+ el objetivo de este proyecto es visualizar el modelo de un molino de viento estilo clasico.
+esta compuesta de una torre, una base, un veleta y las elices.
+hay 4 opciones de moviemiento:
+el primero consiste en mover las elices ala izquierda cada vez que se presion el boton
+el segundo hace los mimso que el primero pero ahora ala derecha
+el tercero gira 2 piezas que serian la base y las elices ala izquierda.
+el cuarto opcion gira igual ambas piezas(base, elices ) ala derecha.
+
